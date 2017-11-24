@@ -5,7 +5,7 @@
 
 > Hizmetinize sunulan BKM Express Flow iOS SDK paketi ile son kullanıcının iOS cihazında BKMExpress uygulaması kurulu olmasa dahi, "Ödeme Yapma" özelliğini, uygulamanızdan çıkış yapma gereksinimi olmadan halletmenize olanak sunar.
 
-###Gereksinimler
+## Gereksinimler
 
  - iOS 8.0 ve üzeri
  - CocoaPods
@@ -15,13 +15,13 @@
  Işyerleri BKM Express entegrasyonlarını tamamlayarak gerekli İşyeri servis uygulamaları ile BKM sunucularında oturum açtıktan sonra, yarattıkları ödeme işlerinden kendilerine iletilen **TICKET_TOKEN** , **TICKET_ID** ve **TICKET_PATH** parametreleri ile çalışmak istedikleri ortamı seçerek BKMExpress Flow SDK akışı başlatabilirler.
  BKM sunucularında oturum açma ile detayli bilgiye [buradan](https://test-api.bkmexpress.com.tr/docs) ulaşabilirsiniz.
 
-###CocoaPods Entegrasyonu
+## CocoaPods Entegrasyonu
 
 ```ruby
 pod 'BKMExpressFlowSDK', '1.0.2'
 ```
 
-###Örnek Kullanım 
+## Örnek Kullanım
 
 ```swift
 
@@ -37,7 +37,7 @@ self.present(instanceOfCustomObject , animated:true,completion: nil)
 ```
 DebugMode enable edilerek test sunucularına, disable edilerek production sunucularına istek gönderilebilir.
 
-###BKMOTPDelegate
+## BKMOTPDelegate
 
 ```swift
 
