@@ -1,0 +1,6 @@
+framework module Pods_FlowSwiftTest {
+  umbrella header "Pods-FlowSwiftTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
