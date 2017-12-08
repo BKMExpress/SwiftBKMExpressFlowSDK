@@ -7,7 +7,7 @@
 
 ## Gereksinimler
 
- - iOS 8.0 ve üzeri
+ - iOS 9.0 ve üzeri
  - CocoaPods
  
  ## NASIL ÇALIŞIR?
