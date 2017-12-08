@@ -8,8 +8,8 @@ target 'FlowSwiftTest' do
   # Pods for FlowSwiftTest
   
   use_frameworks!
-  pod 'BKMExpressFlowSDK', '1.0.3'
-  
+
+  pod 'BKMExpressFlowSDK', '1.0.4'
 
   target 'FlowSwiftTestTests' do
     inherit! :search_paths

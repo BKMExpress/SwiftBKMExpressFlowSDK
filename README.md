@@ -18,7 +18,7 @@
 ## CocoaPods Entegrasyonu
 
 ```ruby
-pod 'BKMExpressFlowSDK', '1.0.3'
+pod 'BKMExpressFlowSDK', '1.0.4'
 ```
 
 ## Örnek Kullanım
