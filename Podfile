@@ -8,7 +8,7 @@ target 'FlowSwiftTest' do
   # Pods for FlowSwiftTest
   
   use_frameworks!
-  pod 'BKMExpressFlowSDK'
+  pod 'BKMExpressFlowSDK', '1.0.3'
   
 
   target 'FlowSwiftTestTests' do
